@@ -7,4 +7,4 @@ Para rodar esse projeto na sua máquina, por favor digite:
 ```
 npm install react
 ```
-Mudando o escopo do projet
+Mudando o escopo do projeto
